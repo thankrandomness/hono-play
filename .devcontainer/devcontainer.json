@@ -1,0 +1,8 @@
+{
+	"name": "Ubuntu",
+	"image": "mcr.microsoft.com/devcontainers/base:jammy",
+	"features": {
+		"ghcr.io/devcontainers/features/node:1": {},
+		"ghcr.io/joedmck/devcontainer-features/wrangler:1": {}
+	}
+}
